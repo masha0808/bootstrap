@@ -1,0 +1,51 @@
+.title{
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    font-weight: 400;
+    font-size: 45px;
+    padding: 20px;
+}
+.card-title{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+}
+.card-text{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #474A57;
+}
+.data{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+.row{
+    border: none;
+}
+.card-text1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #474A57;
+    padding-bottom: 30px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+.title1{
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    font-weight: 400;
+    font-size: 45px;
+    padding: 30px;
+}
+.card1{
+    max-width: 340px;
+    height: 250px;
+}
+.card{
+    margin: 0 auto;
+    margin-top: 30px;
+}
